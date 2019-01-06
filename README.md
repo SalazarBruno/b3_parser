@@ -7,4 +7,4 @@ b3_parser.sh <uncompressed input file>
 Input files can be downloaded from http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/cotacoes-historicas/
 
 
-More info on: brunomagnum.com.br/b3-parser/
+More info on: http://brunomagnum.com.br/b3-parser/
